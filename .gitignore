@@ -1,0 +1,22 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore environment and private keys
+.env
+*.pem
+*.key
+*.crt
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+"node_modules/" 
+".env" 
+"*.pem" 
+"*.key" 
+"*.crt" 
