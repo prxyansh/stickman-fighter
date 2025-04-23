@@ -64,6 +64,7 @@ Visual and sound effects
 Social and competitive features
 
 Credits: PRIYANSH KUMAR PASWAN (https://github.com/prxyansh)  |  PRASAD SAHIL
+
 Sprites and sounds: Custom-made or open source (see Assets).
 Built with Express and Socket.IO.
 
